@@ -51,7 +51,7 @@ back
 0 → Back
 
 ## Notes
-- Write using :wq
+- Write using vi,vim
 - View weekly notes
 
 ## Timeline
