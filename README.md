@@ -70,4 +70,3 @@ Stored locally in data.json (offline use)
 
 ## Team
 Developed by group 10 students with shared contributions.
-
