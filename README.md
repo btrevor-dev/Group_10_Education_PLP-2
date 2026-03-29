@@ -1,9 +1,9 @@
-# 📘 EDU_Track
+# EDU_Track
 
-## 📌 Project Overview
+## Project Overview
 EDU_Track is a Python-based command-line application that helps students track their learning progress. It allows users to manage courses, write notes, monitor weekly progress, and set goals. The system works offline and provides a simple and organized learning experience.
 
-## 🎯 Features
+## Features
 - Course Management (Add, Remove, List, Run)
 - Notes (This Week & Last Week)
 - Timeline (Auto-organized)
@@ -11,7 +11,7 @@ EDU_Track is a Python-based command-line application that helps students track t
 - Activities Tracking
 - Offline Storage (JSON)
 
-## 🗂️ Project Structure
+## Project Structure
 EDU_Track/
 ├── main.py
 ├── auth.py
@@ -25,12 +25,12 @@ EDU_Track/
 ├── store.py
 └── data.json
 
-## ⚙️ How to Run
+## How to Run
 git clone <your-repo-link>
 cd EDU_Track
 python3 main.py
 
-## 🧑‍💻 Usage
+## Usage
 
 ### Authentication
 - Sign up
@@ -50,24 +50,24 @@ back
 4 → Activities
 0 → Back
 
-## 📝 Notes
+## Notes
 - Write using :wq
 - View weekly notes
 
-## 📊 Timeline
+## Timeline
 - Shows This Week & Last Week content automatically
 
-## 🎯 Goals
+## Goals
 - Add goals
 - View goals
 - Mark completed
 
-## 🧠 Activities
+## Activities
 - Add and view activities
 
-## 💾 Data
+## Data
 Stored locally in data.json (offline use)
 
-## 👥 Team
+## Team
 Developed by group 10 students with shared contributions.
 
